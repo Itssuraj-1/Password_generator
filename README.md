@@ -1,7 +1,7 @@
 # Password Generator     
     
 A simple and secure password generator that creates strong, random passwords to enhance security. This tool allows users to generate passwords of varying lengths with customizable options.
- 
+  
 ## Features  
 - Generate random, strong passwords.  
 - Choose password length.
