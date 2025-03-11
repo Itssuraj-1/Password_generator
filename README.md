@@ -7,7 +7,7 @@ A simple and secure password generator that creates strong, random passwords to 
 - Choose password length.
 - Include/exclude uppercase letters, numbers, and special characters.  
 - User-friendly interface.
-
+ 
 ## Technologies Used
 - HTML, CSS, JavaScript (Frontend)
 - (Optional) Node.js for additional backend functionalities
