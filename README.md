@@ -17,7 +17,7 @@ Clone this repository and open the `index.html` file in your browser to use the 
 
 ```sh
 # Clone the repository
-https://github.com/Itssuraj-1/Password_generator.git
+https://github.com/Itssuraj-1/Password_generator.git 
 
 # Navigate to the project directory
 cd password-generator
